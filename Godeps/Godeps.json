@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/LeoKotschenreuther/cryptocoin-trading",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v76",
+	"Deps": []
+}
